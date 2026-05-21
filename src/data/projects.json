@@ -1,0 +1,83 @@
+[
+  {
+    "id": 0,
+    "name": "E-commerce API Documentation",
+    "description": "Dynamic E-Commerce Workflow Management. The system features dynamic routes for order processing, real-time inventory updates, and secure user authentication. It also supports seamless automated order reporting and comprehensive product management. Documented Backend API published publicly using Postman",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 3,
+    "name": "E-commerce App",
+    "description": "MERN E-Commerce Platform. The platform features dynamic product catalog with filtering and sorting, real-time search, seamless cat updates, secure checkout, and a comprehensive admin dashboard with reral-time analytics and user management capabilities.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 1,
+    "name": "Course Booking API Documentation",
+    "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving, activations, and student enrollemnt. Publicly documented using Postman.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 2,
+    "name": "Course Booking App",
+    "description": "A MERN-stack course enrollment system featuring user registration, authentication and profile management. Authenticated users can create update, archive, and activate courses. the platform also allows users to brows available courses and enroll seamlessly.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 4,
+    "name": "Airline Booking System Mockup",
+    "description": "Side Project: Conceptual deisgn showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 5,
+    "name": "Airline Booking System Prototype",
+    "description": "Side Prroject: Interactive prototype simulating end-to-end airline booking functionalities, including flight search, reservation, payment processing, and real-time ticket management.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 6,
+    "name": "Short Courses Capstone",
+    "description": "Placeholder for your short courses capstone project.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 7,
+    "name": "Short Courses Capstone",
+    "description": "Placeholder for your short courses capstone project.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 8,
+    "name": "Short Courses Capstone",
+    "description": "Placeholder for your short courses capstone project.",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false
+  },
+  {
+    "id": 9,
+    "name": "Future Project",
+    "description": "Look forward for more!",
+    "date": "TBA",
+    "url": "TBA",
+    "visitEnabled": false,
+    "placeholder": true
+  }
+]
